@@ -1,0 +1,52 @@
+body {
+    background-color: darkcyan;
+
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 50px
+}
+
+li {
+    text-align: left;
+    font-size: 20px;
+}
+img {
+    width: 400px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    color: yellow;
+}
+
+h3 {
+    text-align: center;
+    font-size: 23px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+
+h5 {
+    text-align: center;
+    font-size: 30px;
+
+}
+
+h6 {
+    text-align: right;
+    font-size: 50px;
+}
+
+
+
+
+
+
